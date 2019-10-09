@@ -1,6 +1,6 @@
 # 🔮 Projects - Commitizen Base
 
-<div align="center">
+<p align="center">
   <a href="https://www.npmjs.com/package/@crystal-ball/commitizen-base">
     <img src="https://img.shields.io/npm/v/@crystal-ball/commitizen-base.svg?style=flat-square" alt="NPM">
   </a>
@@ -32,11 +32,11 @@
       alt="Full of love"
     />
   </a>
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <em>Automated commit message formatting with Commitizen.</em>
-</div>
+</p>
 
 This package contains an adapter for using [Commitizen][] with 🔮 Projects.
 Standardized commit messages are constructed using an interactive prompt with
