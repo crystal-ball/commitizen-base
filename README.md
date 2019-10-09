@@ -4,8 +4,8 @@
   <a href="https://www.npmjs.com/package/@crystal-ball/commitizen-base">
     <img src="https://img.shields.io/npm/v/@crystal-ball/commitizen-base.svg?style=flat-square" alt="NPM">
   </a>
-  <a href="https://github.com/crystal-ball/commit-base/actions?workflow=CI%2FCD">
-    <img src="https://github.com/crystal-ball/commit-base/workflows/CI%2FCD/badge.svg" alt="Build status" />
+  <a href="https://github.com/crystal-ball/commitizen-base/actions?workflow=CI%2FCD">
+    <img src="https://github.com/crystal-ball/commitizen-base/workflows/CI%2FCD/badge.svg" alt="Build status" />
   </a>
   <a href="https://renovatebot.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Renovate-enabled-32c3c2.svg" alt="Renvoate" />
