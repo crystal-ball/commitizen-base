@@ -13,4 +13,12 @@ with [@crystal-ball/semantic-release-base](https://github.com/crystal-ball/seman
 > - ✨ - Updates
 > - 🛠 - Fixes
 
+
+## 2.0.0 Project Refresh 🎉 (2019-10-09)
+
+Re-release this package for using commitizen with 🔮 Projects. Having the
+Commitizen adapter and Semantic Release configs rolled up into
+`commit-semantics` doesn't provide much benefit and adds unnecessary overhead
+for deps maintenance which is mostly what these two base packages require.
+
 ## 1.0.0 Project Release 🎉 (2019-05-01)
