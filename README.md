@@ -6,10 +6,10 @@
   <!-- prettier-ignore-start -->
   <a href="https://www.npmjs.com/package/@crystal-ball/commitizen-base">
     <img src="https://img.shields.io/npm/v/@crystal-ball/commitizen-base" alt="Package version" valign="text-top"/>
-  </a> -->
+  </a>
   <a href="https://www.npmjs.com/package/@crystal-ball/commitizen-base">
     <img src="https://img.shields.io/npm/dt/@crystal-ball/commitizen-base?color=blue" alt="NPM downloads" valign="text-top" />
-  </a> -->
+  </a>
   <a href="https://github.com/crystal-ball/commitizen-base/actions?workflow=CI%2FCD">
     <img src="https://github.com/crystal-ball/commitizen-base/workflows/CI%2FCD/badge.svg" alt="Build status" valign="text-top" />
   </a>
