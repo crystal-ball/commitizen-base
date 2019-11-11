@@ -31,7 +31,7 @@
   <a href="https://commitizen.github.io/cz-cli/">
     <img src="https://img.shields.io/badge/Commitizen-%E2%9C%93%20friendly-10e67b" alt="Commitizen friendly" valign="text-top" />
   </a>
-  <a href="https://github.com/crystal-ball/commitizen-base/settings/secrets/new#workspaces/-projects-5b88b5c9af3c0a2186966767/board?repos=213916365">
+  <a href="https://github.com/crystal-ball/commitizen-base/#workspaces/-projects-5b88b5c9af3c0a2186966767/board?repos=213916365">
     <img src="https://img.shields.io/badge/ZenHub-managed-5e60ba.svg" alt="ZenHub" valign="text-top" />
   </a>
   <a href="https://semantic-release.gitbook.io/semantic-release/">
