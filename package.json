@@ -29,8 +29,8 @@
     "wrap-ansi": "6.1.0"
   },
   "devDependencies": {
-    "@crystal-ball/prettier-base": "1.5.0",
-    "@crystal-ball/semantic-release-base": "2.3.0",
+    "@crystal-ball/prettier-base": "1.6.0",
+    "@crystal-ball/semantic-release-base": "2.4.0",
     "eslint-config-eloquence": "12.9.1",
     "husky": "3.0.9",
     "jest": "24.9.0"
