@@ -38,7 +38,7 @@ jobs:
           CC_TEST_REPORTER_ID: ${{ secrets.CC_TEST_REPORTER_ID }}
   publish:
     name: Continuous Deployment
-    needs: test
+    # needs: test
     if: github.ref == 'refs/heads/master'
     runs-on: ubuntu-latest
     steps:
