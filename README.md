@@ -60,7 +60,7 @@
   <br />
 </div>
 
-This package contains an adapter for using [Commitizen][] with 🔮 Projects.
+Package contains an adapter for using [Commitizen][] with 🔮 Projects.
 Standardized commit messages are constructed using an interactive prompt with
 options for long descriptions, emojis, breaking change notes and release notes.
 
