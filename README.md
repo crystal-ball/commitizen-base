@@ -66,6 +66,9 @@ options for long descriptions, emojis, breaking change notes and release notes.
 
 ---
 
+Commits generated with this package will automatically follow the [ESLint commit
+fomat][eslint-commits].
+
 ## ⚙️ Setup
 
 _1. Install_
@@ -92,5 +95,7 @@ _2. Configure `package.json`_
 ```
 
 <!-- Links -->
-
-[commitizen]: https://commitizen.github.io/cz-cli/
+<!-- prettier-ignore-start -->
+[commitizen]:https://commitizen.github.io/cz-cli/
+[eslint-commits]:https://eslint.org/docs/developer-guide/contributing/pull-requests#step-2-make-your-changes
+<!-- prettier-ignore-end -->
