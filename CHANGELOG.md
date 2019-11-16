@@ -14,6 +14,19 @@ with [@crystal-ball/semantic-release-base](https://github.com/crystal-ball/seman
 > - 🛠 - Fixes
 
 
+### [2.2.1](https://github.com/crystal-ball/commitizen-base/compare/v2.2.0...v2.2.1) (2019-11-16)
+
+
+#### 🛠 Fix
+
+* Skip CI commits using tags 🚀 (#18)([d6c836d](https://github.com/crystal-ball/commitizen-base/commit/d6c836de85cb6d4bbec0d0cc3b19bf9dfbfcbe9e)), closes [#18](https://github.com/crystal-ball/commitizen-base/issue/18)
+
+#### Docs, Chore
+
+* Add skip CI comment 📝([b11e9b0](https://github.com/crystal-ball/commitizen-base/commit/b11e9b0080c2247bedd5dde2a5fc7a9b3fc7a95a))
+* Fix format script whitespace([1f8acf9](https://github.com/crystal-ball/commitizen-base/commit/1f8acf970ade90fa753c9b4334575eb73ec729e6))
+* Skip CI commits [skip ci] 🚀 (#17)([7f425ec](https://github.com/crystal-ball/commitizen-base/commit/7f425ecbed947c44203ec61a758cb52211239f8d)), closes [#17](https://github.com/crystal-ball/commitizen-base/issue/17)
+
 ## [2.2.0](https://github.com/crystal-ball/commitizen-base/compare/v2.1.0...v2.2.0) (2019-11-16)
 
 
