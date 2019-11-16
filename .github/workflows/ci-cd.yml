@@ -38,8 +38,8 @@ jobs:
           CC_TEST_REPORTER_ID: ${{ secrets.CC_TEST_REPORTER_ID }}
   publish:
     name: Continuous Deployment
-    # needs: test
-    if: github.ref == 'refs/heads/master'
+    if: github.ref == 'refs/heads/master' && contains(github.event.head_commit.message, 'skip ci') == false
+    needs: test
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
