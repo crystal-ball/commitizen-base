@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "commitizen": "4.0.3",
-    "wrap-ansi": "6.1.0"
+    "wrap-ansi": "6.2.0"
   },
   "devDependencies": {
     "@crystal-ball/prettier-base": "1.6.0",
