@@ -14,6 +14,23 @@ with [@crystal-ball/semantic-release-base](https://github.com/crystal-ball/seman
 > - 🛠 - Fixes
 
 
+## [2.3.0](https://github.com/crystal-ball/commitizen-base/compare/v2.2.1...v2.3.0) (2019-11-19)
+
+
+#### ✨ Update
+
+* Package wrap-ansi upgrades to v6.2.0 🆙 (#20)([eb610c1](https://github.com/crystal-ball/commitizen-base/commit/eb610c1128c590b164075f53563d65ac76eaf725)), closes [#20](https://github.com/crystal-ball/commitizen-base/issue/20)
+
+#### Chore
+
+* Add skip ci success job [skip ci] ⚙️([9da0b6d](https://github.com/crystal-ball/commitizen-base/commit/9da0b6dfd8cda1882f0037082caa027aca93aed6))
+* Add skip to both steps [skip ci] ⚙️([efd10d0](https://github.com/crystal-ball/commitizen-base/commit/efd10d0435268b863d743421e05acba23e564db8))
+* More skipping [skip ci] ⚙️([31476bd](https://github.com/crystal-ball/commitizen-base/commit/31476bde2f6cd4f695d8b36a17dc22b1c33fd5e5))
+* Needs is all we need [skip ci] ⚙️([8bebc89](https://github.com/crystal-ball/commitizen-base/commit/8bebc8964f8912a98a592492c6c0a405f35d0691))
+* Test skip exit status without needs [skip ci] ⚙️([784d6b4](https://github.com/crystal-ball/commitizen-base/commit/784d6b4fef9611fe2c5304af1d393bed81bdd3af))
+* Test skipping needs [skip ci]([fce61f3](https://github.com/crystal-ball/commitizen-base/commit/fce61f3d7af353ab604999941ac1757f536b20a4))
+* Update dev dependencies 🆙 (#19)([283f72a](https://github.com/crystal-ball/commitizen-base/commit/283f72ae2042f82a0565f31b29159b98f82eaccc)), closes [#19](https://github.com/crystal-ball/commitizen-base/issue/19)
+
 ### [2.2.1](https://github.com/crystal-ball/commitizen-base/compare/v2.2.0...v2.2.1) (2019-11-16)
 
 
