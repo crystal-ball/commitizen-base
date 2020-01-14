@@ -33,7 +33,7 @@
     "@crystal-ball/prettier-base": "1.6.0",
     "@crystal-ball/semantic-release-base": "2.9.0",
     "eslint-config-eloquence": "12.17.0",
-    "husky": "3.1.0",
+    "husky": "4.0.6",
     "jest": "24.9.0"
   },
   "config": {
