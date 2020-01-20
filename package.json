@@ -31,9 +31,9 @@
   },
   "devDependencies": {
     "@crystal-ball/prettier-base": "1.6.0",
-    "@crystal-ball/semantic-release-base": "2.9.0",
-    "eslint-config-eloquence": "12.17.0",
-    "husky": "4.0.6",
+    "@crystal-ball/semantic-release-base": "2.10.0",
+    "eslint-config-eloquence": "12.18.0",
+    "husky": "4.0.10",
     "jest": "24.9.0"
   },
   "config": {
