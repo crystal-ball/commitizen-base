@@ -48,7 +48,7 @@ module.exports = {
         name: 'emoji',
         choices: commitEmojis,
         message: 'Commit emoji:',
-        when: answers => answers.hasEmoji,
+        when: (answers) => answers.hasEmoji,
       },
       // --- Long description
       {
@@ -61,7 +61,7 @@ module.exports = {
         type: 'input',
         name: 'body',
         message: 'Commit description:',
-        when: answers => answers.hasDescription,
+        when: (answers) => answers.hasDescription,
       },
       // --- Close issues
       {
@@ -74,7 +74,7 @@ module.exports = {
         type: 'input',
         name: 'issues',
         message: 'List any issue closed (#1, ...):\n',
-        when: answers => answers.hasIssues,
+        when: (answers) => answers.hasIssues,
       },
       // --- Release notes
       {
@@ -87,7 +87,7 @@ module.exports = {
         type: 'input',
         name: 'releaseNotes',
         message: 'Release notes:\n',
-        when: answers => answers.hasReleaseNotes,
+        when: (answers) => answers.hasReleaseNotes,
       },
       // --- Breaking changes
       {
@@ -100,9 +100,9 @@ module.exports = {
         type: 'input',
         name: 'breakingNotes',
         message: 'Breaking changes:\n',
-        when: answers => answers.hasBreaking,
+        when: (answers) => answers.hasBreaking,
       },
-    ]).then(answers => {
+    ]).then((answers) => {
       commit(formatCommit(answers))
     })
   },

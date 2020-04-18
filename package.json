@@ -26,16 +26,16 @@
     "format": "prettier --write '*.{js,json,md}' '**/*.{js,json,md,mdx,scss}' !CHANGELOG.md"
   },
   "dependencies": {
-    "commitizen": "4.0.3",
+    "commitizen": "4.0.4",
     "wrap-ansi": "6.2.0"
   },
   "devDependencies": {
-    "@crystal-ball/prettier-base": "1.6.0",
-    "@crystal-ball/semantic-release-base": "2.15.0",
-    "@types/jest": "25.1.4",
-    "eslint-config-eloquence": "13.6.0",
-    "husky": "4.2.3",
-    "jest": "25.1.0"
+    "@crystal-ball/prettier-base": "2.0.0",
+    "@crystal-ball/semantic-release-base": "2.16.0",
+    "@types/jest": "25.2.1",
+    "eslint-config-eloquence": "13.7.0",
+    "husky": "4.2.5",
+    "jest": "25.3.0"
   },
   "prettier": "@crystal-ball/prettier-base",
   "config": {
