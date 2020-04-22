@@ -14,6 +14,20 @@ with [@crystal-ball/semantic-release-base](https://github.com/crystal-ball/seman
 > - 🛠 - Fixes
 
 
+## [2.5.0](https://github.com/crystal-ball/commitizen-base/compare/v2.4.0...v2.5.0) (2020-04-22)
+
+
+#### ✨ Update
+
+* Package dependencies 🆙([1fccf48](https://github.com/crystal-ball/commitizen-base/commit/1fccf48fb939917700e6b0e254c50ab056560aa0))
+
+#### Chore
+
+* Update dev dependencies 🆙 (#36)([b0a7579](https://github.com/crystal-ball/commitizen-base/commit/b0a757956c80c50fc34fcd25f500cebd5cd9985a)), closes [#36](https://github.com/crystal-ball/commitizen-base/issue/36)
+* Update dev dependencies 🆙 (#37)([1f47859](https://github.com/crystal-ball/commitizen-base/commit/1f478598d4a407083477a3871a0efe9df91988fe)), closes [#37](https://github.com/crystal-ball/commitizen-base/issue/37)
+* Update dev dependencies 🆙 (#41)([f0e09ca](https://github.com/crystal-ball/commitizen-base/commit/f0e09ca0f9ee68d24d472850f3f814b068de2c5d)), closes [#41](https://github.com/crystal-ball/commitizen-base/issue/41)
+* Update package eslint-config-eloquence to v13.4.0 🆙 (#35)([6f52f55](https://github.com/crystal-ball/commitizen-base/commit/6f52f551670049fb842298c1311c6fef9e2a3acc)), closes [#35](https://github.com/crystal-ball/commitizen-base/issue/35)
+
 ## [2.4.0](https://github.com/crystal-ball/commitizen-base/compare/v2.3.0...v2.4.0) (2020-02-25)
 
 
