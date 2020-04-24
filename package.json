@@ -20,8 +20,7 @@
   "license": "ISC",
   "scripts": {
     "test": "npm run test:lint && npm run test:unit",
-    "test:format": "prettier --check index.js lib/**",
-    "test:lint": "NODE_ENV=test eslint --format=pretty index.js lib",
+    "test:lint": "NODE_ENV=test eslint --format=pretty --ext .js,.ts index.js lib",
     "test:unit": "npx jest",
     "format": "prettier --write '*.{js,json,md,ts}' '**/*.{js,json,md,ts}' !CHANGELOG.md"
   },
