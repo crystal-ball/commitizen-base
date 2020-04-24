@@ -23,7 +23,7 @@
     "test:format": "prettier --check index.js lib/**",
     "test:lint": "NODE_ENV=test eslint --format=pretty index.js lib",
     "test:unit": "npx jest",
-    "format": "prettier --write '*.{js,json,md}' '**/*.{js,json,md,mdx,scss}' !CHANGELOG.md"
+    "format": "prettier --write '*.{js,json,md,ts}' '**/*.{js,json,md,ts}' !CHANGELOG.md"
   },
   "dependencies": {
     "commitizen": "4.0.4",
