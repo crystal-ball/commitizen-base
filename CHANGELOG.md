@@ -14,6 +14,21 @@ with [@crystal-ball/semantic-release-base](https://github.com/crystal-ball/seman
 > - 🛠 - Fixes
 
 
+## [2.6.0](https://github.com/crystal-ball/commitizen-base/compare/v2.5.0...v2.6.0) (2020-04-27)
+
+
+#### ✨ Update
+
+* Package wrap-ansi upgrades to v7 🆙 (#44)([07306e4](https://github.com/crystal-ball/commitizen-base/commit/07306e4f40ca34d33c00ca00b3a1a3ae2586803a)), closes [#44](https://github.com/crystal-ball/commitizen-base/issue/44)
+
+#### Chore
+
+* Add CodeClimate configuration ⚙️([a5d19a2](https://github.com/crystal-ball/commitizen-base/commit/a5d19a2632d77f3dd8e4afc1b25eb98d0b4b48bd))
+* Add tests for utils ✅ (#42)([37f6df4](https://github.com/crystal-ball/commitizen-base/commit/37f6df491bf5b9376f3b068d02d06661f6a1217f)), closes [#42](https://github.com/crystal-ball/commitizen-base/issue/42)
+* Reconfigure Renovate ⚙️ (#43)([fb49e8f](https://github.com/crystal-ball/commitizen-base/commit/fb49e8fc03e7a555915be7824445e3936e5255bc)), closes [#43](https://github.com/crystal-ball/commitizen-base/issue/43)
+* Remove format duplicated Prettier check([b11a93d](https://github.com/crystal-ball/commitizen-base/commit/b11a93d07cdf5673a6ab7c892a9a53112b5d7c52))
+* Update repo CI/CD configs ⚙️([0710b69](https://github.com/crystal-ball/commitizen-base/commit/0710b69885829d4bd1b38ea93f6b8e2e864cbd1c))
+
 ## [2.5.0](https://github.com/crystal-ball/commitizen-base/compare/v2.4.0...v2.5.0) (2020-04-22)
 
 
