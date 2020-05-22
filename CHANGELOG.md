@@ -14,6 +14,19 @@ with [@crystal-ball/semantic-release-base](https://github.com/crystal-ball/seman
 > - 🛠 - Fixes
 
 
+## [2.7.0](https://github.com/crystal-ball/commitizen-base/compare/v2.6.0...v2.7.0) (2020-05-22)
+
+
+#### ✨ Update
+
+* Library dependencies 🆙 (#51)([b402534](https://github.com/crystal-ball/commitizen-base/commit/b402534c15db368fffa4eeb8a87db32bc2cd1aae)), closes [#51](https://github.com/crystal-ball/commitizen-base/issue/51)
+
+#### Chore
+
+* Change /lib to /src ⚙️ (#47)([62d4050](https://github.com/crystal-ball/commitizen-base/commit/62d40503d6df38f87dce6f3781842820d804eb35)), closes [#47](https://github.com/crystal-ball/commitizen-base/issue/47)
+* Reconfigure Renovate ⚙️ (#46)([38afa22](https://github.com/crystal-ball/commitizen-base/commit/38afa2250e7766fa646918a1acc7d7169bf64550)), closes [#46](https://github.com/crystal-ball/commitizen-base/issue/46)
+* Update dev dependencies 🆙 (#45)([296690f](https://github.com/crystal-ball/commitizen-base/commit/296690f24fde4dad07c90f0c263abb4af6ec168e)), closes [#45](https://github.com/crystal-ball/commitizen-base/issue/45)
+
 ## [2.6.0](https://github.com/crystal-ball/commitizen-base/compare/v2.5.0...v2.6.0) (2020-04-27)
 
 
