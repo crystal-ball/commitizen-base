@@ -14,6 +14,13 @@ with [@crystal-ball/semantic-release-base](https://github.com/crystal-ball/seman
 > - 🛠 - Fixes
 
 
+### [2.7.1](https://github.com/crystal-ball/commitizen-base/compare/v2.7.0...v2.7.1) (2020-05-22)
+
+
+#### 🛠 Fix
+
+* Publish src files ⚙️ (#52)([c40443a](https://github.com/crystal-ball/commitizen-base/commit/c40443a73a764b438e118623a6dd6867313696ee)), closes [#52](https://github.com/crystal-ball/commitizen-base/issue/52)
+
 ## [2.7.0](https://github.com/crystal-ball/commitizen-base/compare/v2.6.0...v2.7.0) (2020-05-22)
 
 
