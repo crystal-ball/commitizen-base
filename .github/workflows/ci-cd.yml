@@ -9,14 +9,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
-      - name: Setup Node.js
-        uses: actions/setup-node@v1
+      - uses: actions/setup-node@v1
         with:
           node-version: '12.16'
-      - uses: actions/cache@v1
-        with:
-          path: ~/.npm
-          key: npm-${{ hashFiles('**/package.json') }}
       - name: Install
         run: CI=true npm install
       - name: Code Climate - Setup
@@ -44,8 +39,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
-      - name: Setup Node.js
-        uses: actions/setup-node@v1
+      - uses: actions/setup-node@v1
         with:
           node-version: '12.16'
       - name: Install
