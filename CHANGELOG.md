@@ -14,6 +14,27 @@ with [@crystal-ball/semantic-release-base](https://github.com/crystal-ball/seman
 > - 🛠 - Fixes
 
 
+## [2.9.0](https://github.com/crystal-ball/commitizen-base/compare/v2.8.0...v2.9.0) (2020-11-18)
+
+
+#### ✨ Update
+
+* Package commitizen to v4.2.2 🆙 (#81)([1fd37bb](https://github.com/crystal-ball/commitizen-base/commit/1fd37bbc7695b5b32eb1a57054200b72ba4d0422)), closes [#81](https://github.com/crystal-ball/commitizen-base/issue/81)
+
+#### Chore
+
+* Eloquence update (#74)([aa0640b](https://github.com/crystal-ball/commitizen-base/commit/aa0640befa3c26b3ae418102ed9942e84f80885e)), closes [#74](https://github.com/crystal-ball/commitizen-base/issue/74)
+* Update devDependencies 🆙 (#73)([ce805d1](https://github.com/crystal-ball/commitizen-base/commit/ce805d19ba8f30136340c9f04687814cb57cca3f)), closes [#73](https://github.com/crystal-ball/commitizen-base/issue/73)
+* Update devDependencies 🆙 (#76)([509d560](https://github.com/crystal-ball/commitizen-base/commit/509d560d168f78578f9af6f937e4575df2e49b06)), closes [#76](https://github.com/crystal-ball/commitizen-base/issue/76)
+* Update devDependencies 🆙 (#80)([4d3298c](https://github.com/crystal-ball/commitizen-base/commit/4d3298c0feb9418df1834d9f656a8f6f8acee581)), closes [#80](https://github.com/crystal-ball/commitizen-base/issue/80)
+* Update devDependencies 🆙 (#83)([7ddd39d](https://github.com/crystal-ball/commitizen-base/commit/7ddd39d4d6482d7826bbbfb9678f2daca8992ffe)), closes [#83](https://github.com/crystal-ball/commitizen-base/issue/83)
+* Update package eslint-config-eloquence to v15.2.1 🆙 (#75)([6897b52](https://github.com/crystal-ball/commitizen-base/commit/6897b527d84361a720734fc2d9a3d440d00d8a12)), closes [#75](https://github.com/crystal-ball/commitizen-base/issue/75)
+* Update package eslint-config-eloquence to v16 🆙 (#77)([288b35a](https://github.com/crystal-ball/commitizen-base/commit/288b35ad808847df13feca394db628076c5b9632)), closes [#77](https://github.com/crystal-ball/commitizen-base/issue/77)
+* Update package jest to v26.5.2 🆙 (#78)([2beef79](https://github.com/crystal-ball/commitizen-base/commit/2beef792c21722cce1ccbb28c7a818d0cde4c0da)), closes [#78](https://github.com/crystal-ball/commitizen-base/issue/78)
+* Update package jest to v26.5.3 🆙 (#79)([704986a](https://github.com/crystal-ball/commitizen-base/commit/704986a2140afd3200b5ba898dcb3b1238ec6334)), closes [#79](https://github.com/crystal-ball/commitizen-base/issue/79)
+* Update package jest to v26.6.2 🆙 (#84)([2204112](https://github.com/crystal-ball/commitizen-base/commit/2204112ca4b2149969cb0bec88c246fd8f8ab72e)), closes [#84](https://github.com/crystal-ball/commitizen-base/issue/84)
+* Update package jest to v26.6.3 🆙 (#85)([5030a1f](https://github.com/crystal-ball/commitizen-base/commit/5030a1f94b8cdf7ad37f14f5777b01d438f343b8)), closes [#85](https://github.com/crystal-ball/commitizen-base/issue/85)
+
 ## [2.8.0](https://github.com/crystal-ball/commitizen-base/compare/v2.7.1...v2.8.0) (2020-09-04)
 
 
