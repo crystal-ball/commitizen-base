@@ -14,6 +14,23 @@ with [@crystal-ball/semantic-release-base](https://github.com/crystal-ball/seman
 > - 🛠 - Fixes
 
 
+## [2.10.0](https://github.com/crystal-ball/commitizen-base/compare/v2.9.0...v2.10.0) (2021-02-05)
+
+
+#### ✨ Update
+
+* Package commitizen to v4.2.3 🆙 (#95)([0450194](https://github.com/crystal-ball/commitizen-base/commit/0450194686ed50d195c8b57fe1e866c261dea1c3)), closes [#95](https://github.com/crystal-ball/commitizen-base/issue/95)
+
+#### Chore
+
+* Update devDependencies 🆙 (#87)([e5851d2](https://github.com/crystal-ball/commitizen-base/commit/e5851d2779adf8056ba86135e77b581f051ed437)), closes [#87](https://github.com/crystal-ball/commitizen-base/issue/87)
+* Update devDependencies 🆙 (#88)([bcb0d5d](https://github.com/crystal-ball/commitizen-base/commit/bcb0d5d65cb19c28818735645de5a066350ac91c)), closes [#88](https://github.com/crystal-ball/commitizen-base/issue/88)
+* Update devDependencies 🆙 (#90)([d26e9be](https://github.com/crystal-ball/commitizen-base/commit/d26e9be86c3c3a7df710374fec352338e43512ec)), closes [#90](https://github.com/crystal-ball/commitizen-base/issue/90)
+* Update devDependencies 🆙 (#91)([2542b32](https://github.com/crystal-ball/commitizen-base/commit/2542b32f2c2ebcf10c33d8dfe1db78207c0f8bf5)), closes [#91](https://github.com/crystal-ball/commitizen-base/issue/91)
+* Update devDependencies 🆙 (#93)([5f10b74](https://github.com/crystal-ball/commitizen-base/commit/5f10b749c25faac578f142a4980aea4ca880e9e7)), closes [#93](https://github.com/crystal-ball/commitizen-base/issue/93)
+* Update package eslint-config-eloquence to v17 🆙 (#89)([4337ceb](https://github.com/crystal-ball/commitizen-base/commit/4337ceb39d4f0ca213345380ca3821d2cd768ec3)), closes [#89](https://github.com/crystal-ball/commitizen-base/issue/89)
+* Update package husky to v4.3.8 🆙 (#94)([b301a33](https://github.com/crystal-ball/commitizen-base/commit/b301a3381ba1ba0c9091d2e3b1fcc8a837b51b02)), closes [#94](https://github.com/crystal-ball/commitizen-base/issue/94)
+
 ## [2.9.0](https://github.com/crystal-ball/commitizen-base/compare/v2.8.0...v2.9.0) (2020-11-18)
 
 
