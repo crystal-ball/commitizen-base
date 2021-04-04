@@ -5,7 +5,7 @@ const { formatCommit } = require('./format-commit')
 // Commit details: body, breakingNotes, issues, releaseNotes, subject, type
 
 describe('Commit details formatting', () => {
-  test('When there is a type and subject, then they are formatted as the commit header', () => {
+  it('When there is a type and subject, then they are formatted as the commit header', () => {
     expect(
       formatCommit({
         type: 'New',
@@ -14,7 +14,7 @@ describe('Commit details formatting', () => {
     ).toMatchSnapshot()
   })
 
-  test('When the header is longer than 100 chars, then it is truncated', () => {
+  it('When the header is longer than 100 chars, then it is truncated', () => {
     expect(
       formatCommit({
         type: 'New',
@@ -24,7 +24,7 @@ describe('Commit details formatting', () => {
     ).toMatchSnapshot()
   })
 
-  test('When a commit emoji is selected, then it is appended to the header', () => {
+  it('When a commit emoji is selected, then it is appended to the header', () => {
     expect(
       formatCommit({
         type: 'New',
@@ -34,7 +34,7 @@ describe('Commit details formatting', () => {
     ).toMatchSnapshot()
   })
 
-  test('When the commit body is longer than 100 chars, then it is wrapped', () => {
+  it('When the commit body is longer than 100 chars, then it is wrapped', () => {
     expect(
       formatCommit({
         type: 'New',
@@ -45,7 +45,7 @@ describe('Commit details formatting', () => {
     ).toMatchSnapshot()
   })
 
-  test('When the commit has breaking changes, then it is appended to the footer', () => {
+  it('When the commit has breaking changes, then it is appended to the footer', () => {
     expect(
       formatCommit({
         type: 'New',
@@ -55,7 +55,7 @@ describe('Commit details formatting', () => {
     ).toMatchSnapshot()
   })
 
-  test('When the commit has release notes, then it is appended to the footer', () => {
+  it('When the commit has release notes, then it is appended to the footer', () => {
     expect(
       formatCommit({
         type: 'New',
@@ -65,7 +65,7 @@ describe('Commit details formatting', () => {
     ).toMatchSnapshot()
   })
 
-  test('When the commit closes issues, then it is appended in the footer', () => {
+  it('When the commit closes issues, then it is appended in the footer', () => {
     expect(
       formatCommit({
         type: 'New',
@@ -75,7 +75,7 @@ describe('Commit details formatting', () => {
     ).toMatchSnapshot()
   })
 
-  test('Every feature works perfectly 😅', () => {
+  it('Every feature works perfectly 😅', () => {
     expect(
       formatCommit({
         type: 'New',
