@@ -39,8 +39,7 @@ describe('Commit details formatting', () => {
       formatCommit({
         type: 'New',
         subject: 'Test commit formatting',
-        body:
-          'This is a longer description of the commit, its over 100 chars so it should be wrapped onto multiple lines but not truncated',
+        body: 'This is a longer description of the commit, its over 100 chars so it should be wrapped onto multiple lines but not truncated',
       }),
     ).toMatchSnapshot()
   })
