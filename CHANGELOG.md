@@ -14,6 +14,27 @@ with [@crystal-ball/semantic-release-base](https://github.com/crystal-ball/seman
 > - 🛠 - Fixes
 
 
+## [2.11.0](https://github.com/crystal-ball/commitizen-base/compare/v2.10.0...v2.11.0) (2021-05-16)
+
+
+#### ✨ Update
+
+* Commitizen update 🆙([06f31ab](https://github.com/crystal-ball/commitizen-base/commit/06f31ab4ba80276bfefa19860b07881ba707324c))
+
+#### Chore, Upgrade
+
+* Update devDependencies 🆙 (#100)([5b07ab5](https://github.com/crystal-ball/commitizen-base/commit/5b07ab53ac36b10c8fa0ee19145d2135a5d7a7e3)), closes [#100](https://github.com/crystal-ball/commitizen-base/issue/100)
+* Update devDependencies 🆙 (#103)([ecd5f8f](https://github.com/crystal-ball/commitizen-base/commit/ecd5f8f612d11254a6bb7bdfd237a541c862e928)), closes [#103](https://github.com/crystal-ball/commitizen-base/issue/103)
+* Update devDependencies 🆙 (#96)([789538f](https://github.com/crystal-ball/commitizen-base/commit/789538f94e64d8faf820513f2c91c947a675ee76)), closes [#96](https://github.com/crystal-ball/commitizen-base/issue/96)
+* Update devDependencies 🆙 (#98)([c7737fb](https://github.com/crystal-ball/commitizen-base/commit/c7737fb55f6624eb78ffd41f356f20dfba10d47e)), closes [#98](https://github.com/crystal-ball/commitizen-base/issue/98)
+* Update ESLint dependencies 🆙([927007e](https://github.com/crystal-ball/commitizen-base/commit/927007e3750f0dac18b84b446571d04cedb3768e))
+* Update package @types/jest to v26.0.22 🆙 (#102)([5faef6f](https://github.com/crystal-ball/commitizen-base/commit/5faef6f9a052b3494843c594251d490a41d76636)), closes [#102](https://github.com/crystal-ball/commitizen-base/issue/102)
+* Update package eslint-config-eloquence to v17.7.0 🆙 (#99)([271ab01](https://github.com/crystal-ball/commitizen-base/commit/271ab01c8929b9ab019403f9681f6b207bb6eee1)), closes [#99](https://github.com/crystal-ball/commitizen-base/issue/99)
+* Update package husky to v5 🆙 (#97)([18b58e0](https://github.com/crystal-ball/commitizen-base/commit/18b58e0a8e364c116065edf2d12451638b485a41)), closes [#97](https://github.com/crystal-ball/commitizen-base/issue/97)
+* Update Renovate configs ⚙️([7f53eb9](https://github.com/crystal-ball/commitizen-base/commit/7f53eb93496f2ad7901cc046e121f4aff7b068b3))
+* Package dependencies 🆙([7d2a345](https://github.com/crystal-ball/commitizen-base/commit/7d2a34577a16531c72e899a0c8ccd2ac25fae1be))
+* Rename default branch to main 💖([4af3031](https://github.com/crystal-ball/commitizen-base/commit/4af3031993fd686f243df1259493bd13e554b822))
+
 ## [2.10.0](https://github.com/crystal-ball/commitizen-base/compare/v2.9.0...v2.10.0) (2021-02-05)
 
 
