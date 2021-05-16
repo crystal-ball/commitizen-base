@@ -1,0 +1,13 @@
+{
+  "extends": [
+    "github>crystal-ball/renovate-base:library"
+  ],
+  "packageRules": [
+    {
+      "matchPackageNames": [
+        "wrap-ansi"
+      ],
+      "allowedVersions": "<=7"
+    }
+  ]
+}
