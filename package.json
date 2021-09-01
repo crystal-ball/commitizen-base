@@ -30,11 +30,11 @@
     "wrap-ansi": "7.0.0"
   },
   "devDependencies": {
-    "@crystal-ball/prettier-base": "2.7.0",
-    "@crystal-ball/semantic-release-base": "2.32.0",
+    "@crystal-ball/prettier-base": "2.8.0",
+    "@crystal-ball/semantic-release-base": "2.33.0",
     "@types/jest": "26.0.24",
     "eslint-config-eloquence": "19.1.0",
-    "jest": "27.0.6"
+    "jest": "27.1.0"
   },
   "config": {
     "commitizen": {
