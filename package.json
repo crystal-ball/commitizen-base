@@ -7,7 +7,7 @@
     "crystal-ball",
     "commitizen"
   ],
-  "contributeros": [
+  "contributors": [
     "Dan Hedgecock <hedgecock.d@gmail.com> (https://danhedgecock.com)"
   ],
   "repository": {
@@ -33,8 +33,9 @@
     "@crystal-ball/prettier-base": "2.10.0",
     "@crystal-ball/semantic-release-base": "2.34.0",
     "@types/jest": "27.4.0",
-    "eslint-config-eloquence": "19.1.0",
-    "jest": "27.4.5"
+    "eslint-config-eloquence": "21.2.0",
+    "jest": "27.4.7",
+    "node-notifier": "10.0.0"
   },
   "config": {
     "commitizen": {
