@@ -30,8 +30,8 @@
     "wrap-ansi": "7.0.0"
   },
   "devDependencies": {
-    "@crystal-ball/prettier-base": "2.10.0",
-    "@crystal-ball/semantic-release-base": "2.34.0",
+    "@crystal-ball/prettier-base": "2.11.0",
+    "@crystal-ball/semantic-release-base": "2.36.0",
     "@types/jest": "27.4.0",
     "eslint-config-eloquence": "21.2.0",
     "jest": "27.4.7",
