@@ -1,6 +1,6 @@
 'use strict'
 
-const { longest, padRight } = require('./utils')
+const { longest, padRight } = require('./utils.js')
 
 describe('longest', () => {
   it('When no fields are present, then longest is 0', () => {

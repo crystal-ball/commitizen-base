@@ -1,6 +1,6 @@
 'use strict'
 
-const { formatCommit } = require('./format-commit')
+const { formatCommit } = require('./format-commit.js')
 
 // Commit details: body, breakingNotes, issues, releaseNotes, subject, type
 
