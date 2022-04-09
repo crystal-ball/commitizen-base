@@ -1,6 +1,6 @@
 'use strict'
 
-const { padRight, longest } = require('./utils')
+const { padRight, longest } = require('./utils.js')
 
 const commitEmojis = [
   {

@@ -1,7 +1,7 @@
 'use strict'
 
-const { formatCommit } = require('./src/format-commit')
-const { commitTypes, commitEmojis } = require('./src/commit-choices')
+const { commitTypes, commitEmojis } = require('./src/commit-choices.js')
+const { formatCommit } = require('./src/format-commit.js')
 
 module.exports = {
   // When a user runs `git cz`, prompter will be executed. We pass you cz,
