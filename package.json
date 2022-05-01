@@ -34,7 +34,7 @@
     "@crystal-ball/semantic-release-base": "2.38.0",
     "@types/jest": "27.4.1",
     "eslint-config-eloquence": "22.0.2",
-    "jest": "27.5.1",
+    "jest": "28.0.3",
     "node-notifier": "10.0.1"
   },
   "config": {
