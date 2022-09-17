@@ -14,6 +14,42 @@ with [@crystal-ball/semantic-release-base](https://github.com/crystal-ball/seman
 > - 🛠 - Fixes
 
 
+## [2.12.0](https://github.com/crystal-ball/commitizen-base/compare/v2.11.0...v2.12.0) (2022-09-17)
+
+
+#### ✨ Update
+
+* Package commitizen to v4.2.5 🆙 (#130)([a53fdcd](https://github.com/crystal-ball/commitizen-base/commit/a53fdcd44628e3f90b21fa47b548233629bdcad5)), closes [#130](https://github.com/crystal-ball/commitizen-base/issue/130)
+
+#### Chore
+
+* Configs cleanup ⚙️([55bfa97](https://github.com/crystal-ball/commitizen-base/commit/55bfa97c77349626f48229c466aabc64ccad382c))
+* Run Prettier([80a1f16](https://github.com/crystal-ball/commitizen-base/commit/80a1f16187adf6d26cc530175563cc753fda6399))
+* Update actions/checkout action to v3 (#122)([cc6bb29](https://github.com/crystal-ball/commitizen-base/commit/cc6bb2972e83c80f2330f4d8e8f6d2af6d093c39)), closes [#122](https://github.com/crystal-ball/commitizen-base/issue/122)
+* Update dependencies (#123)([daf6578](https://github.com/crystal-ball/commitizen-base/commit/daf6578ed5cdeaf31161251be00987dd3398c08b)), closes [#123](https://github.com/crystal-ball/commitizen-base/issue/123)
+* Update devDependencies to v29 🆙 (#132)([a6fefd0](https://github.com/crystal-ball/commitizen-base/commit/a6fefd0d635aff0f3e583bf8fc5d7fe4fb0c6791)), closes [#132](https://github.com/crystal-ball/commitizen-base/issue/132)
+* Update devDependencies 🆙 (#110)([d47824b](https://github.com/crystal-ball/commitizen-base/commit/d47824b895183baca066125ea4694c26f26eb261)), closes [#110](https://github.com/crystal-ball/commitizen-base/issue/110)
+* Update devDependencies 🆙 (#112)([6695dcc](https://github.com/crystal-ball/commitizen-base/commit/6695dccc5fe1dd952633479ebd62a69cc5604135)), closes [#112](https://github.com/crystal-ball/commitizen-base/issue/112)
+* Update devDependencies 🆙 (#115)([7a242a2](https://github.com/crystal-ball/commitizen-base/commit/7a242a2e5ec674787371c42c35c408163fd71a67)), closes [#115](https://github.com/crystal-ball/commitizen-base/issue/115)
+* Update devDependencies 🆙 (#116)([d5c460c](https://github.com/crystal-ball/commitizen-base/commit/d5c460cc1e67b10be818a98afdcbcf8b0134ef3a)), closes [#116](https://github.com/crystal-ball/commitizen-base/issue/116)
+* Update devDependencies 🆙 (#118)([1fb860a](https://github.com/crystal-ball/commitizen-base/commit/1fb860a63b9f601f92ce67cc741d7a66c57f409c)), closes [#118](https://github.com/crystal-ball/commitizen-base/issue/118)
+* Update devDependencies 🆙 (#119)([34dd832](https://github.com/crystal-ball/commitizen-base/commit/34dd8327a3ea5b476f2013dca366a1a698661b29)), closes [#119](https://github.com/crystal-ball/commitizen-base/issue/119)
+* Update devDependencies 🆙 (#124)([20da9bb](https://github.com/crystal-ball/commitizen-base/commit/20da9bb4bd901ada691b660c78d886c8535be13f)), closes [#124](https://github.com/crystal-ball/commitizen-base/issue/124)
+* Update devDependencies 🆙 (#126)([0b5d420](https://github.com/crystal-ball/commitizen-base/commit/0b5d420a285f9356d559a43bc6e6de8b5d0588c9)), closes [#126](https://github.com/crystal-ball/commitizen-base/issue/126)
+* Update devDependencies 🆙 (#127)([2929600](https://github.com/crystal-ball/commitizen-base/commit/2929600f4b712eb9698c0d6a25c69945e8c9da30)), closes [#127](https://github.com/crystal-ball/commitizen-base/issue/127)
+* Update devDependencies 🆙 (#129)([4064cb1](https://github.com/crystal-ball/commitizen-base/commit/4064cb1e4cc1ae6cca48b2909d737c495e4c120a)), closes [#129](https://github.com/crystal-ball/commitizen-base/issue/129)
+* Update package @crystal-ball/semantic-release-base to v2.32.0 🆙 (#106)([7afd6db](https://github.com/crystal-ball/commitizen-base/commit/7afd6db6426065e0babdd284c6cb4cc215e23643)), closes [#106](https://github.com/crystal-ball/commitizen-base/issue/106)
+* Update package @crystal-ball/semantic-release-base to v2.37.0 🆙 (#121)([62c840c](https://github.com/crystal-ball/commitizen-base/commit/62c840c57f9532be4a8d1b1bbd1bc8fc74680287)), closes [#121](https://github.com/crystal-ball/commitizen-base/issue/121)
+* Update package @types/jest to v26.0.24 🆙 (#109)([469c133](https://github.com/crystal-ball/commitizen-base/commit/469c133c971c0a65b2ef0e8a7de826eb6ec2b860)), closes [#109](https://github.com/crystal-ball/commitizen-base/issue/109)
+* Update package @types/jest to v27 🆙 (#111)([528e59b](https://github.com/crystal-ball/commitizen-base/commit/528e59b0f87165860bc4290b0f266335b94ec27b)), closes [#111](https://github.com/crystal-ball/commitizen-base/issue/111)
+* Update package @types/jest to v28 🆙 (#128)([e2b3cbb](https://github.com/crystal-ball/commitizen-base/commit/e2b3cbb1e42f031b3365b68d8e2b0d44f4cdc0ed)), closes [#128](https://github.com/crystal-ball/commitizen-base/issue/128)
+* Update package @types/jest to v28.1.8 🆙 (#131)([8afa682](https://github.com/crystal-ball/commitizen-base/commit/8afa6823727e271264784948e8ac44a32a24ef38)), closes [#131](https://github.com/crystal-ball/commitizen-base/issue/131)
+* Update package dev dependencies 🆙 (#117)([26fbfbf](https://github.com/crystal-ball/commitizen-base/commit/26fbfbfa3dbb2f92f0439747eea19a2b5a446533)), closes [#117](https://github.com/crystal-ball/commitizen-base/issue/117)
+* Update package jest to v27 🆙 (#107)([1ed25d6](https://github.com/crystal-ball/commitizen-base/commit/1ed25d67eaa33b772493b2d0057781f1fb74a5e9)), closes [#107](https://github.com/crystal-ball/commitizen-base/issue/107)
+* Update package jest to v27.0.6 🆙 (#108)([1be4676](https://github.com/crystal-ball/commitizen-base/commit/1be4676477201c1dad83cb90d9c573ab670b114b)), closes [#108](https://github.com/crystal-ball/commitizen-base/issue/108)
+* Update package jest to v27.3.1 🆙 (#114)([2d8d446](https://github.com/crystal-ball/commitizen-base/commit/2d8d4462d85d5f1efd979208971c276a341f3211)), closes [#114](https://github.com/crystal-ball/commitizen-base/issue/114)
+* Update package jest to v28 🆙 (#125)([2b8dff7](https://github.com/crystal-ball/commitizen-base/commit/2b8dff73fbbec32d1e84979f341c74b3065c2a5d)), closes [#125](https://github.com/crystal-ball/commitizen-base/issue/125)
+
 ## [2.11.0](https://github.com/crystal-ball/commitizen-base/compare/v2.10.0...v2.11.0) (2021-05-16)
 
 
